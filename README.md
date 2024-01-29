@@ -3,7 +3,7 @@ This was for an assignment in my Web Applications & Development class, requiring
 # Running the Server
 I have found two ways in going about this:
 
-<ins>Altering package.json:</ins> Including a "type" : "module" designation, and then additionally "start": "node routeParam.js" (singular parameter, btw) within the "scripts" identifier of the package.json file allowed me to run "routeParam.js" without needing to alter the filename.
+<ins>Altering package.json:</ins> Including a "type" : "module" designation, and then additionally "start": "node routeParam.js" (singular Param, btw) within the "scripts" identifier of the package.json file allowed me to run "routeParam.js" without needing to alter the filename.
 
 "node routeParam.js" would successfully run the code with these alterations.
 
